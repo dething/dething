@@ -1,7 +1,7 @@
-## nmap -sV -A -T4 -v Mauricio_Piscitelli 👋
+## $root nmap -sV -A -T4 -v Mauricio_Piscitelli 👋
 ## Starting nmap engine ....
 ## Initializing prof_offskill_script
-Analista de Ciberseguridad
+Analista de Ciberseguridad 
 Linux
 Kali Linux
 Nmap
