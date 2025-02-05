@@ -1,5 +1,18 @@
-## nmap -sV -T4 -v Mauricio_Piscitelli 👋
-hola
+## nmap -sV -A -T4 -v Mauricio_Piscitelli 👋
+## Starting nmap engine ....
+## Initializing prof_offskill_script
+Analista de Ciberseguridad
+Linux
+Kali Linux
+Nmap
+Metasploit
+Autopsy
+## Initializing prof_defskill_script
+Normas ISO 
+SGSI
+seguridad de redes
+firewalls
+
 <!--
 **dething/dething** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
